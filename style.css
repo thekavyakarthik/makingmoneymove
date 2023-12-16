@@ -6,16 +6,17 @@ body {
 }
 
 .articleImage {
-  height: max(250px, 50%);
-  width: max(250px, 50%);
-  /*clip-path: inset(20px 50px 10px 0 round 50px);*/
-  clip-path: inset(3rem); 
+  height: 100%;
+  width: 100%;
+  /*clip-path: inset(20px 50px 10px 0 round 50px);
+  clip-path: inset(3rem); */
 }
 
 .articleOne {
   width: 40%;
   height: 100rem;
-  padding: 10%;
+  padding: 0;
+  margin: 5%;
 }
 /*<img src = "./money.jpg" class="articleImage" alt="Article One" />
       <h1 class="articleTitle">Insert Article Title</h1>
