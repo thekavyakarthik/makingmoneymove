@@ -18,6 +18,18 @@ body {
 .articleTitle {
   text-align: center;
   color: #70bdd8;
-  font-family: 'Archivo Black';/*<link href="https://fonts.googleapis.com/css?family=Archivo Black" rel="stylesheet">*/
-  font-size: 36px;
+  font-family: 'Archivo Black';
+  font-size: 40px;
+}
+.articleSummary {
+  text-align: left;
+  color: #70bdd8;
+  font-family: 'Lucida Sans';
+  font-size: 24px;
+}
+.articleExtra {
+  text-align: left;
+  color: #6b808b;
+  font-family: Georgia;
+  font-size: 16px;
 }
