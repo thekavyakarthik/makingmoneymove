@@ -4,3 +4,9 @@ body {
   margin: 0;/*for this webpage?*/
   background-color: #badeec;
 }
+
+img {
+  height: 25%;
+  width: 25%;
+  clip-path: inset(20px 50px 10px 0 round 50px);
+}
