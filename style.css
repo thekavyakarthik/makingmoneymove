@@ -16,7 +16,7 @@ section {
 .menu {
   text-align: center;
   size: 20px;
-  color: aliceblue;
+  color: #fcfdfc;
   font-family: 'Shadows Into Light';
 }
 /*.home {
@@ -38,8 +38,9 @@ section {
   margin-left: 2.5%;
   padding: 1%;
   /*margin: 5%;*/
+  color: #fcfdfc;
   background-clip: padding-box;
-  background-color: blue;
+  background-color: #70bdd8;
 }
 .articleImage {
   width: 80%;
@@ -51,20 +52,17 @@ section {
 }
 .articleTitle {
   text-align: left;
-  color: #70bdd8;
   font-family: 'Shadows Into Light';
   font-size: 40px;
   font-weight: bold;
 }
 .articleSummary {
   text-align: left;
-  color: #70bdd8;
   font-family: 'Inconsolata';
   font-size: 20px;
 }
 .articleExtra {
   text-align: left;
-  color: #6b808b;
   font-family: Georgia;
   font-size: 16px;
   padding-bottom: 5px;

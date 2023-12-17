@@ -15,15 +15,22 @@ img {
 h1 {
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 h2 {
     font-size: 16px;
     font-family: Verdana;
+    text-align: right;
+    padding-right: 30%;
 }
 h3 {
     font-size: 24px;
     font-family: Georgia;
+    text-align: left;
 }
 .content {
     padding: 5%;
+    color: #fcfdfc;
+    background-clip: content-box;
+    background-color: #70bdd8;
 }
