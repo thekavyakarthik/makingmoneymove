@@ -10,6 +10,7 @@ body {
 .articleImage {
   height: 100%;
   width: 100%;
+  align-content: center;
   clip-path: inset(20px 50px 10px 0 round 50px);
   /*clip-path: inset(3rem);*/
 }
