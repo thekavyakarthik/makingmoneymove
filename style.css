@@ -36,6 +36,7 @@ section {
   /*height: 100rem;*/
   /*padding: 5%;*/
   margin-left: 2.5%;
+  margin-bottom: 2%;
   padding: 1%;
   /*margin: 5%;*/
   color: #fcfdfc;
@@ -65,5 +66,16 @@ section {
   text-align: left;
   font-family: Georgia;
   font-size: 16px;
+  padding-bottom: 5px;
+}
+
+#footer {
+  text-align: center;
+  size: 20px;
+  color: #fcfdfc;
+  font-family: 'Shadows Into Light';
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 5px;
   padding-bottom: 5px;
 }
