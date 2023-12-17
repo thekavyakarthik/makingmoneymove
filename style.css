@@ -30,11 +30,13 @@ section {
   padding: 0-5px;
 }*/
 .article {
-  width: 40%;
+  width: 30%;
   float: left;
   display: inline;
   /*height: 100rem;*/
-  padding: 5%;
+  /*padding: 5%;*/
+  padding-left: 2.5%;
+  padding-inline-end: 2.5%;
   /*margin: 5%;*/
   background-clip: content-box;
   background-color: blue;
