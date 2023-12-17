@@ -35,9 +35,10 @@ section {
   display: inline;
   /*height: 100rem;*/
   /*padding: 5%;*/
-  padding-left: 2.5%;
+  margin-left: 2.5%;
+  padding: 1%;
   /*margin: 5%;*/
-  background-clip: content-box;
+  background-clip: padding-box;
   background-color: blue;
 }
 .articleImage {
