@@ -36,6 +36,7 @@ section {
   /*height: 100rem;*/
   padding: 5%;
   /*margin: 5%;*/
+  background-clip: content-box;
   background-color: blue;
 }
 .articleImage {
