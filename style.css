@@ -51,8 +51,9 @@ section {
 .articleTitle {
   text-align: left;
   color: #70bdd8;
-  font-family: 'Archivo Black';
-  font-size: 36px;
+  font-family: 'Shadows Into Light';
+  font-size: 40px;
+  font-weight: bold;
 }
 .articleSummary {
   text-align: left;
