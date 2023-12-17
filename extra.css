@@ -48,8 +48,22 @@ a.blog:hover {
 a.blog:active {
     color:#6b808b;
 }
-
+.article {
+    width: 28%;
+    float: left;
+    display: inline;
+    /*height: 100rem;*/
+    /*padding: 5%;*/
+    margin-left: 2.5%;
+    margin-bottom: 2.5%;
+    padding: 1%;
+    /*margin: 5%;*/
+    color: #fcfdfc;
+    background-clip: padding-box;
+    background-color: #96cadd;
+  }
 .only {
+    width: 82%;
     margin: 8%;
     padding: 5%;
     color: #fcfdfc;
