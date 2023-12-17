@@ -2,9 +2,9 @@
   --len: min(250px, 40vw);
 }
 body {
-  /*width: 100%;
+  width: 100vw;
   height: 100vh;
-  margin: 10px;/*for this webpage?*/
+  /*margin: 10px;/*for this webpage?*/
   /*margin-top: 10px;
   margin-bottom: 10px;*/
   background-color: #badeec;
