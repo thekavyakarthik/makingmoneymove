@@ -1,10 +1,10 @@
 :root {
-  --len: max(250px, 50vw);
+  --len: min(250px, 40vw);
 }
 body {
   width: 100%;
   height: 100vh;
-  margin: 0;/*for this webpage?*/
+  margin: 10px;/*for this webpage?*/
   /*margin-top: 10px;
   margin-bottom: 10px;*/
   background-color: #badeec;
@@ -33,13 +33,13 @@ body {
   text-align: left;
   color: #70bdd8;
   font-family: 'Archivo Black';
-  font-size: 40px;
+  font-size: 36px;
 }
 .articleSummary {
   text-align: left;
   color: #70bdd8;
-  font-family: 'Lucida Sans';
-  font-size: 24px;
+  font-family: 'Inconsolata';
+  font-size: 20px;
 }
 .articleExtra {
   text-align: left;
