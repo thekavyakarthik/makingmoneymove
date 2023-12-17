@@ -12,7 +12,13 @@ section {
   height: 100%;
   padding: 0-5px;
 }
-.home {
+.menu {
+  text-align: center;
+  size: 20px;
+  color: aliceblue;
+
+}
+/*.home {
   width: 10%;
   height: 25%;
   float: inline-end;
@@ -21,10 +27,11 @@ section {
   background-color: darkred;
   color: floralwhite;
   padding: 0-5px;
-}
+}*/
 .article {
   width: 50%;
   float: left;
+  display: inline;
   /*height: 100rem;*/
   padding: 0-10px;
   margin: 5%;
