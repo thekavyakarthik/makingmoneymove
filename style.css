@@ -3,7 +3,7 @@
 }
 body {
   width: 100vw;
-  height: 100vh;
+  height: 100%;
   /*margin: 10px;/*for this webpage?*/
   /*margin-top: 10px;
   margin-bottom: 10px;*/
@@ -11,8 +11,6 @@ body {
 }
 section {
   margin: 0 -5px;
-  width: 100vw;
-  height: 100vh;
 }
 .home {
   width: 10%;
