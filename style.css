@@ -14,13 +14,12 @@ section {
 }
 .home {
   width: 10%;
-  float: left;
-  align-items: center;
+  align-self: center;
+  align-content: center;
   height: 25%;
   background-color: darkred;
   color: floralwhite;
   padding: 0-5px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 .articleImage {
   /*height: var(--len);*/
