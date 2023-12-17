@@ -60,7 +60,7 @@ section {
 .articleSummary {
   text-align: left;
   font-family: 'Inconsolata';
-  font-size: 20px;
+  font-size: 24px;
 }
 .articleExtra {
   text-align: left;
@@ -72,7 +72,7 @@ section {
 #footer {
   text-align: center;
   size: 20px;
-  color: #fcfdfc;
+  color: #6b808b;
   font-family: 'Shadows Into Light';
   padding-left: auto;
   padding-right: auto;
