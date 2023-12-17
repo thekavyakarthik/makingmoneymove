@@ -41,9 +41,11 @@ section {
   background-color: blue;
 }
 .articleImage {
-  width: 100%;
-  height: 100%;
-  align-items: center;
+  width: 80%;
+  height: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   clip-path: inset(1rem);
 }
 .articleTitle {
