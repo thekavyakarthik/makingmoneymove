@@ -5,8 +5,9 @@ body {
     background-color: #badeec;
 }
 img {
-    width: 100%;
-    height: 100%;
+    width: 700%;
+    height: 70%;
+    align-content: center;
 }
 h1 {
     font-size: 40px;
