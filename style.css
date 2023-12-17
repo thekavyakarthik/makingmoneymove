@@ -14,6 +14,7 @@ section {
 .home {
   width: 10%;
   height: 25%;
+  float:inline-end;
   align-self: center;
   align-content: center;
   background-color: darkred;
