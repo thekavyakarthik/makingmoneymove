@@ -14,6 +14,17 @@ section {
   width: 100vw;
   height: 100vh;
 }
+.home {
+  width: 10%;
+  float: left;
+  align-items: center;
+  height: 25%;
+  background-color: darkred;
+  z-index: 1010101010;
+  color: floralwhite;
+  padding: 0-5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
 .articleImage {
   /*height: var(--len);*/
   width: 100%;
