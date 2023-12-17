@@ -11,25 +11,25 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-h1 {
+.title {
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
-h2 {
+.author {
     font-size: 16px;
     font-family: 'Franklin Gothic Medium';
     text-align: right;
     padding-right: 30%;
 }
-h3 {
+.content {
     font-size: 24px;
     font-family: 'Source Code Pro';
     text-align: left;
 }
 .menu {
     text-align: center;
-    font-size: 20px;
+    size: 20px;
     color: #fcfdfc;
     font-family: 'Shadows Into Light';
 }
@@ -49,7 +49,7 @@ a.blog:active {
     color:#6b808b;
 }
 
-.content {
+.only {
     margin: 8%;
     padding: 5%;
     color: #fcfdfc;
@@ -58,7 +58,7 @@ a.blog:active {
 }
 #footer {
     text-align: center;
-    font-size: 20px;
+    size: 20px;
     color: #6b808b;
     font-family: 'Shadows Into Light';
     padding-left: auto;
