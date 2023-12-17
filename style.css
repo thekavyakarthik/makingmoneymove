@@ -13,6 +13,7 @@ section {
 }
 .home {
   width: 10%;
+  height: 25%;
   align-self: center;
   align-content: center;
   background-color: darkred;
