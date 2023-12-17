@@ -19,6 +19,15 @@ section {
   color: #fcfdfc;
   font-family: 'Shadows Into Light';
 }
+a.blog:link, a.blog:visited {
+  color:#fcfdfc;
+}
+a.blog:hover {
+  color: #70bdd8;
+}
+a.blog:active {
+  color:#6b808b;
+}
 /*.home {
   width: 10%;
   height: 25%;

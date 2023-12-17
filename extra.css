@@ -29,10 +29,26 @@ h3 {
 }
 .menu {
     text-align: center;
-    size: 20px;
+    font-size: 20px;
     color: #fcfdfc;
     font-family: 'Shadows Into Light';
 }
+/*<style>
+a:link {color:#000000;}    unvisited link is black
+a:visited {color:#000000;} visited link is black (reverse the color back to black)
+a:hover {color:#0000FF;}   mouse over link (blue when mouse over)
+a:active {color:#0000FF;}  selected link (blue in the split second which you loading the page.)
+</style>*/
+a.blog:link, a.blog:visited {
+    color:#fcfdfc;
+}
+a.blog:hover {
+    color: #70bdd8;
+}
+a.blog:active {
+    color:#6b808b;
+}
+
 .content {
     margin: 8%;
     padding: 5%;
@@ -42,7 +58,7 @@ h3 {
 }
 #footer {
     text-align: center;
-    size: 20px;
+    font-size: 20px;
     color: #6b808b;
     font-family: 'Shadows Into Light';
     padding-left: auto;
