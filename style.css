@@ -39,14 +39,14 @@ a.blog:active {
   padding: 0-5px;
 }*/
 .article {
-  width: 28%;
+  width: 38%;/*og: 28%*/
   float: left;
   display: inline;
   /*height: 100rem;*/
   /*padding: 5%;*/
-  margin-left: 2.5%;
-  margin-bottom: 2.5%;
-  padding: 1%;
+  margin-left: 10%;/*og: 2.5%*/
+  margin-bottom: 10%;
+  padding: 6%; /*og: 1%*/
   /*margin: 5%;*/
   color: #fcfdfc;
   background-clip: padding-box;
