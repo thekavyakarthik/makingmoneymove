@@ -3,6 +3,7 @@ body {
     height: 100vh;
     background-color: #badeec;
     overflow-x: hidden;
+    padding-bottom: 2.5rem;
 }
 .image {
     padding: 10px;
@@ -60,6 +61,10 @@ a.blog:active {
 }
 #footer {
     text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
     size: 20px;
     color: #6b808b;
     font-family: 'Shadows Into Light';
@@ -67,4 +72,4 @@ a.blog:active {
     padding-right: auto;
     padding-top: 5px;
     padding-bottom: 5px;
-  }
+}
