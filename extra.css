@@ -4,6 +4,8 @@ body {
     background-color: #badeec;
     overflow-x: hidden;
     padding-bottom: 2.5rem;
+    position: relative;
+    min-height: 100vh;
 }
 .image {
     padding: 10px;
