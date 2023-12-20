@@ -83,8 +83,8 @@ a.blog:active {
   size: 20px;
   color: #6b808b;
   font-family: 'Shadows Into Light';
-  padding-left: auto;
-  padding-right: auto;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
   padding-top: 5px;
   padding-bottom: 5px;
 }
