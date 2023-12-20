@@ -3,8 +3,6 @@ body {
     height: 100vh;
     background-color: #badeec;
     overflow-x: hidden;
-    position: relative;
-    min-height: 100vh;
 }
 .image {
     padding: 10px;
@@ -56,17 +54,12 @@ a.blog:active {
     margin-left: 5%;
     margin-right: 5%;
     padding: 4%;
-    margin-bottom: 2.5rem;
     color: #fcfdfc;
     background-clip: padding-box;
     background-color: #96cadd;
 }
 #footer {
     text-align: center;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 2.5rem;
     size: 20px;
     color: #6b808b;
     font-family: 'Shadows Into Light';
